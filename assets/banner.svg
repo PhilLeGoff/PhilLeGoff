@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+<title id="title">Philippe Le Goff</title><desc id="desc">Full-stack developer. Building useful software with AI.</desc>
+<rect width="1280" height="300" rx="16" fill="#151719"/>
+<rect x="48" y="54" width="44" height="5" fill="#EAB66A"/>
+<text x="48" y="140" fill="#F5F2EC" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Philippe Le Goff</text>
+<text x="50" y="196" fill="#C5C5C0" font-family="Arial, Helvetica, sans-serif" font-size="27">Full-stack developer. Building useful software with AI.</text>
+<text x="50" y="257" fill="#EAB66A" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">FULL-STACK DEVELOPMENT</text>
+</svg>
