@@ -22,13 +22,13 @@ A personal Angular and TypeScript application that connects offer discovery, fit
 
 ## Selected projects
 
-| Project | What I worked on | Explore |
-| --- | --- | --- |
-| **Plotwise** | A manuscript workspace with source-linked narrative analysis, semantic retrieval and a streaming AI assistant. React, TypeScript, Fastify, MongoDB. Collaborative project. | [Code & case study](https://github.com/PhilLeGoff/plotwise) |
-| **DocuScan AI** | Document upload, OCR, NLP and validation connected to business workflows. React, FastAPI, MongoDB, Airflow. Team hackathon. | [Monorepo](https://github.com/PhilLeGoff/docuscan-ai) |
-| **Reflexx** | A loyalty product across Angular, Flutter and a TypeScript API. I co-build the platform and coordinate the engineering roadmap. | [Case study](https://github.com/PhilLeGoff/reflexx) |
-| **ShopNow+** | A React storefront and TypeScript API connected to Kafka, Spark and HDFS. Academic project. | [Case study](https://github.com/PhilLeGoff/shopnow) |
-| **TripExplorer** | Place discovery, saved trips and map-based planning. Next.js, TypeScript, Django and MongoDB. Academic project. | [Monorepo](https://github.com/PhilLeGoff/tripexplorer) |
+| Project | What I worked on |
+| --- | --- |
+| [**Plotwise**](https://github.com/PhilLeGoff/plotwise) | A manuscript workspace with source-linked narrative analysis, semantic retrieval and a streaming AI assistant. React, TypeScript, Fastify, MongoDB. Collaborative project. |
+| [**DocuScan AI**](https://github.com/PhilLeGoff/docuscan-ai) | Document upload, OCR, NLP and validation connected to business workflows. React, FastAPI, MongoDB, Airflow. Team hackathon. |
+| [**Reflexx**](https://github.com/PhilLeGoff/reflexx) | A loyalty product across Angular, Flutter and a TypeScript API. I co-build the platform and coordinate the engineering roadmap. |
+| [**ShopNow+**](https://github.com/PhilLeGoff/shopnow) | A React storefront and TypeScript API connected to Kafka, Spark and HDFS. Academic project. |
+| [**TripExplorer**](https://github.com/PhilLeGoff/tripexplorer) | Place discovery, saved trips and map-based planning. Next.js, TypeScript, Django and MongoDB. Academic project. |
 
 ## How I build
 
