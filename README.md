@@ -8,25 +8,32 @@ My core stack is **TypeScript, React, Node.js and MongoDB**. I like integrating 
 
 [Portfolio](https://www.webbyphil.net/) · [LinkedIn](https://www.linkedin.com/in/philippe-le-goff-35a12319a/) · [Email](mailto:webbyphil65@gmail.com) · [Français](README.fr.md)
 
-## Featured: Dispatch
+## Featured: Reflexx
 
-**AI-assisted job applications, with a human in control.**
+**A loyalty platform across web, mobile and API.**
 
-A personal Angular and TypeScript application that connects offer discovery, fit assessment, factual document preparation and a review workflow. Sources and decisions stay traceable; external actions require explicit approval.
+I co-build Reflexx with two other engineers and coordinate the technical roadmap. Angular and Flutter interfaces connect to a TypeScript/Express API backed by Prisma and PostgreSQL, covering merchant programs, points and rewards.
 
-[![Dispatch’s real application interface with synthetic demonstration data](assets/dispatch.png)](https://github.com/PhilLeGoff/dispatch)
+[![Reflexx merchant dashboard with synthetic demonstration data](assets/reflexx-overview.png)](https://github.com/PhilLeGoff/reflexx)
 
-*Real interface, synthetic demonstration data. Displayed recommendations are illustrative; no application was sent.*
+<details>
+<summary>Explore the loyalty statistics view</summary>
 
-[Explore the case study →](https://github.com/PhilLeGoff/dispatch)
+![Reflexx loyalty statistics with synthetic demonstration data](assets/reflexx-statistics.png)
+
+</details>
+
+*Real dashboard captured locally with synthetic demonstration data. All displayed figures are illustrative.*
+
+[Explore the case study →](https://github.com/PhilLeGoff/reflexx)
 
 ## Selected projects
 
 | Project | What I worked on |
 | --- | --- |
+| [**Dispatch**](https://github.com/PhilLeGoff/dispatch) | A personal Angular and TypeScript application for AI-assisted offer discovery, factual document preparation and human review. |
 | [**Plotwise**](https://github.com/PhilLeGoff/plotwise) | A manuscript workspace with source-linked narrative analysis, semantic retrieval and a streaming AI assistant. React, TypeScript, Fastify, MongoDB. Collaborative project. |
 | [**DocuScan AI**](https://github.com/PhilLeGoff/docuscan-ai) | Document upload, OCR, NLP and validation connected to business workflows. React, FastAPI, MongoDB, Airflow. Team hackathon. |
-| [**Reflexx**](https://github.com/PhilLeGoff/reflexx) | A loyalty product across Angular, Flutter and a TypeScript API. I co-build the platform and coordinate the engineering roadmap. |
 | [**ShopNow+**](https://github.com/PhilLeGoff/shopnow) | A React storefront and TypeScript API connected to Kafka, Spark and HDFS. Academic project. |
 | [**TripExplorer**](https://github.com/PhilLeGoff/tripexplorer) | Place discovery, saved trips and map-based planning. Next.js, TypeScript, Django and MongoDB. Academic project. |
 

@@ -6,19 +6,30 @@ Développeur full-stack basé à **Lyon**, avec plus de deux ans d’expérience
 
 Mon socle est **TypeScript, React, Node.js et MongoDB**. J’aime intégrer l’IA lorsque cela sert un usage concret : traiter des documents, retrouver une information, analyser un récit ou préparer un travail à valider par une personne.
 
-## Projet principal : Dispatch
+## Projet principal : Reflexx
 
-Une application personnelle Angular et TypeScript pour découvrir des offres, évaluer leur adéquation et préparer des candidatures factuelles. Les sources et décisions restent traçables ; les actions externes nécessitent une approbation explicite.
+**Une plateforme de fidélité entre web, mobile et API.**
 
-[![Interface réelle de Dispatch avec données de démonstration fictives](assets/dispatch.png)](https://github.com/PhilLeGoff/dispatch)
+Je co-développe Reflexx avec deux autres ingénieurs et je coordonne sa feuille de route technique. Les interfaces Angular et Flutter se connectent à une API TypeScript/Express, adossée à Prisma et PostgreSQL, pour gérer les programmes commerçants, les points et les récompenses.
 
-*Interface réelle, données fictives. Les recommandations sont illustratives ; aucune candidature n’a été envoyée.*
+[![Tableau de bord commerçant Reflexx avec données de démonstration fictives](assets/reflexx-overview.png)](https://github.com/PhilLeGoff/reflexx)
+
+<details>
+<summary>Voir les statistiques de fidélité</summary>
+
+![Statistiques de fidélité Reflexx avec données de démonstration fictives](assets/reflexx-statistics.png)
+
+</details>
+
+*Interface réelle capturée localement avec des données fictives. Tous les chiffres affichés sont illustratifs.*
+
+[Découvrir l’étude de cas →](https://github.com/PhilLeGoff/reflexx/blob/main/docs/CASE_STUDY.fr.md)
 
 ## Autres projets
 
+- [Dispatch](https://github.com/PhilLeGoff/dispatch/blob/main/docs/CASE_STUDY.fr.md) : découverte d’offres, préparation documentaire assistée par IA et revue humaine. Application personnelle Angular et TypeScript.
 - [Plotwise](https://github.com/PhilLeGoff/plotwise/blob/main/docs/CASE_STUDY.fr.md) : espace d’écriture avec analyse narrative, recherche sémantique et assistant IA. Projet collaboratif.
 - [DocuScan AI](https://github.com/PhilLeGoff/docuscan-ai/blob/main/docs/CASE_STUDY.fr.md) : traitement documentaire, OCR, NLP et validation. Hackathon en équipe.
-- [Reflexx](https://github.com/PhilLeGoff/reflexx/blob/main/docs/CASE_STUDY.fr.md) : plateforme de fidélité web/mobile/API, co-développée avec coordination de la feuille de route technique.
 - [ShopNow+](https://github.com/PhilLeGoff/shopnow/blob/main/docs/CASE_STUDY.fr.md) : boutique et API TypeScript reliées à Kafka, Spark et HDFS. Projet académique.
 - [TripExplorer](https://github.com/PhilLeGoff/tripexplorer/blob/main/docs/CASE_STUDY.fr.md) : découverte de lieux et organisation de voyages. Projet académique.
 
